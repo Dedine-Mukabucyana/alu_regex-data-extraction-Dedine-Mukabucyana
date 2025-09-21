@@ -1,2 +1,19 @@
-# alu_regex-data-extraction--Dedine-Mukabucyana-
-Formative
+This project shows how to use Regular Expressions (Regex) in Python to find useful information inside plain text.
+It works like a tool that scans text and picks out important data — just like how a developer might read API results and pull out key details.
+
+The program can find:
+
+📧 Email addresses
+
+🔗 Website links (URLs)
+
+💳 Credit card numbers
+
+📄 HTML tags (like <div>, <p>, <img>)
+
+⚙️ Setup Instructions
+
+Copy (clone) this project to your computer:
+
+git clone https://github.com/YourUsername}/alu_regex-data-extraction-{YourUsername}.git
+cd alu_regex-data-extraction-{YourUsername}
