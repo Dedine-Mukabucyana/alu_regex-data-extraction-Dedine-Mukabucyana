@@ -46,7 +46,7 @@ class DataExtractor:
 def main():
     extractor = DataExtractor()
     
-    # Sample text with the data you provided
+    # Sample text with the data I provided
     text = """
     Email addresses:
     user@example.com
