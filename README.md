@@ -10,8 +10,13 @@ The program can find:
 💳 Credit card numbers
 
 📄 HTML tags (like <div>, <p>, <img>)
+💰 Currencies
 
 ⚙️ Setup Instructions
+    .Python 3.6 or higher
+
+    .Git
+
 
 Copy (clone) this project to your computer:
 
